@@ -227,6 +227,14 @@ body {
     .contact .gallery img {
         width: 32%;
     }
+
+    h1, h2, h3 {
+      font-family: 'Montserrat', sans-serif;
+    }
+    body, p, a {
+      font-family: 'Lora', serif;
+    }
+
 }
 
 @media screen and (max-width: 786px) {
@@ -256,6 +264,7 @@ body {
         margin-bottom: 8px;
     }
 }
+
 
 
 
